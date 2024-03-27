@@ -1,0 +1,3 @@
+labels<-c(Rent,Groceries,Utilities,Entertainment)
+expenses<-c(30,25,20,25)
+pie(expenses,labels)
